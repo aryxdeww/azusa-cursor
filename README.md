@@ -7,7 +7,6 @@ A static X11 cursor theme port of the Shirasu Azusa cursor set originally create
 ## 📸 Preview
 
 ![Azusa Cursor Preview](preview.png)  
-*(Place your screenshot file as `preview.png` in the repository root, or update this image URL accordingly)*
 
 ---
 
